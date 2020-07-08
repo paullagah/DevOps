@@ -25,3 +25,7 @@ Below is my CI Pipeline Diagram with the technologies explained above:
 
 ![CI Pipeline](https://github.com/paullagah/DevOps/blob/master/CI_Pipeline.jpg)
 
+## Data
+The design of the data will be as follows in the Entity Relationship Diagram:
+
+
