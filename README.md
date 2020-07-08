@@ -6,7 +6,7 @@ This app will allow the users to:
 * Update a Gymnasts entry
 * Delete a Gymnast from the database
 
-#####The technologies that I used for this project are:
+##### The technologies that I used for this project are:
 | Required  | Used    |
 |-----------|---------|
 | Kanban Board |  Trello |
