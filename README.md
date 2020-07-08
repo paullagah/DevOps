@@ -19,3 +19,7 @@ This app will allow the users to:
 | CI Server | Jenkins |
 | Cloud Server | Google Cloud Platform (GCP)
 
+## CI Pipeline
+Below is my CI Pipeline Diagram with the technologies explained above:
+
+![CI Pipeline](https://github.com/paullagah/DevOps/blob/master/CI_Pipeline.jpg)
