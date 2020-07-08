@@ -1,5 +1,4 @@
-# DevOps Fundamentals Project
-## Gymnast Web App
+# Gymnast Web App
 This app will allow the users to:
 * Add a Gymnast
 * Check the details of all Gymnasts
@@ -25,3 +24,4 @@ Here is a list of technologies used :
 Below is my CI Pipeline Diagram with the technologies explained above:
 
 ![CI Pipeline](https://github.com/paullagah/DevOps/blob/master/CI_Pipeline.jpg)
+
