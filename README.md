@@ -28,4 +28,4 @@ Below is my CI Pipeline Diagram with the technologies explained above:
 ## Data
 The design of the data will be as follows in the Entity Relationship Diagram:
 
-![ERD](https://github.com/paullagah/DevOps/blob/master/ERD.jpg)
+![ERD](https://github.com/paullagah/DevOps/blob/master/Entity%20Relationship%20Diagram.jpg)
